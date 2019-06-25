@@ -1,4 +1,4 @@
-# DataProjects
+# Raspagem de dados Twitter
 Developement of Applications for Data Analysis
 
 Compartilhamento de conhecimento com novos analistas e desenvolvedores, conteúdo para o desenvolvimento de robôs para raspagem de dados e automatização de processos que envolvam dados.
